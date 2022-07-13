@@ -1,0 +1,2 @@
+runtime: java11
+entrypoint: 'java -jar com.muchbeer.ktor-gcloud-0.0.1-all.jar'
